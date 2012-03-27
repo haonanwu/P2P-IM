@@ -1,7 +1,7 @@
-### P2P IM Application
+# P2P Instant Messaging Application
 
-Languages: Java, XML
-Libraries/Frameworks: Swing, Java Socket API, dom4J, Jaxen
+<b>Languages:</b> Java, XML<br>
+<b>Libraries/Frameworks:</b> Swing, Java Socket API, dom4J, Jaxen
 
 ### Purpose:
 
