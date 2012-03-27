@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ContactList>
+  <Self>
+    <UserName>UserName</UserName>
+    <DisplayPicturePath>images/default_display_picture.png</DisplayPicturePath>
+  </Self>
+  <Contacts>
+  <Contacts/>
+</ContactList>
